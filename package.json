@@ -1,0 +1,24 @@
+{
+  "name": "sequelize-youtube-rc",
+  "version": "1.0.0",
+  "description": "1. Create the new repository on GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigosollberger/sequelize-youtube-RC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigosollberger/sequelize-youtube-RC/issues"
+  },
+  "homepage": "https://github.com/rodrigosollberger/sequelize-youtube-RC#readme",
+  "dependencies": {
+    "sequelize": "^6.28.0",
+    "sqlite3": "^5.1.4"
+  }
+}
